@@ -43,3 +43,9 @@ Tested with Python 3.13 and Qiskit 2.5. The whole notebook runs in about 2 minut
 
 * E. Farhi, J. Goldstone, S. Gutmann, *A Quantum Approximate Optimization Algorithm*, arXiv:1411.4028 (2014).
 * A. Lucas, *Ising formulations of many NP problems*, arXiv:1302.5843 (2014).
+  
+## Further Reading 
+* https://quantum.cloud.ibm.com/docs/en/tutorials/quantum-approximate-optimization-algorithm
+* https://pennylane.ai/demos/tutorial_qaoa_intro/
+* https://www.youtube.com/watch?v=RqGpnRh7rCM
+* https://www.youtube.com/watch?v=YpLzSQPrgSc&t=9s
