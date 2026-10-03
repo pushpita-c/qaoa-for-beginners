@@ -1,6 +1,6 @@
 # QAOA for Beginners — an interactive lecture
 
-Google Colab Link: https://github.com/pushpita-c/qaoa-for-beginners/blob/main/qaoa_lecture.ipynb
+Google Colab Link: [https://github.com/pushpita-c/qaoa-for-beginners/blob/main/qaoa_lecture.ipynb](https://github.com/pushpita-c/qaoa-for-beginners)
 
 A hands-on introduction to the **Quantum Approximate Optimization Algorithm (QAOA)** for people with **no quantum background**. It takes you from "what is a qubit?" to solving your own optimization problem — and is meant to prepare you for a quantum hackathon.
 
