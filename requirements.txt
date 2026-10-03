@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+ipywidgets
+pylatexenc
+qiskit>=1.2
+jupyterlab
