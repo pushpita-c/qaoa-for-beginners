@@ -49,3 +49,4 @@ Tested with Python 3.13 and Qiskit 2.5. The whole notebook runs in about 2 minut
 * https://pennylane.ai/demos/tutorial_qaoa_intro/
 * https://www.youtube.com/watch?v=RqGpnRh7rCM
 * https://www.youtube.com/watch?v=YpLzSQPrgSc&t=9s
+* https://quantum.cloud.ibm.com/learning/en/courses/quantum-computing-in-practice/utility-scale-qaoa 
